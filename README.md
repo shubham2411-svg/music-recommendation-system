@@ -23,3 +23,7 @@ This is a Music Recommender System built using Streamlit, Spotipy, and the YouTu
 - Python 3.6 or higher
 - Spotify Developer Account to get `CLIENT_ID` and `CLIENT_SECRET`
 
+## Datatset for the project
+
+https://www.kaggle.com/datasets/notshrirang/spotify-million-song-dataset
+
